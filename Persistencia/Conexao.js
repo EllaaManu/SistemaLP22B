@@ -13,7 +13,7 @@ export default async function conectar(){
         global.poolConexoes = await mysql.createPool({
             "host":'132.226.245.178',
             "port":3306,
-            "database":"LP2_89695",
+            "database":"LP2_102316856",
             "user":"102316856",
             "password":"102316856",
             "connectTimeout":60000,
