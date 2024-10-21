@@ -14,8 +14,8 @@ export default async function conectar(){
             "host":'132.226.245.178',
             "port":3306,
             "database":"LP2_89695",
-            "user":"89695",
-            "password":"89695",
+            "user":"102316856",
+            "password":"102316856",
             "connectTimeout":60000,
             "waitForConnections":true,
             "queueLimit":20

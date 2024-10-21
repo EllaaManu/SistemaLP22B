@@ -12,11 +12,11 @@
     "http",
     "node",
     "fipp",
-    "lp1",
+    "lp2",
     "querido",
     "aluno"
   ],
-  "author": "Renato",
+  "author": "Manuscrela",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
