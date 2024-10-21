@@ -11,11 +11,11 @@ export default async function conectar(){
     }
     else{
         global.poolConexoes = await mysql.createPool({
-            "host":'localhost',
+            "host":'132.226.245.178',
             "port":3306,
-            "database":"loja",
-            "user":"root",
-            "password":"",
+            "database":"LP2_89695",
+            "user":"89695",
+            "password":"89695",
             "connectTimeout":60000,
             "waitForConnections":true,
             "queueLimit":20
